@@ -1,0 +1,1 @@
+Temporary GIF files will go here.
