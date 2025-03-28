@@ -1,0 +1,14 @@
+scpos/temp/**
+!scpos/temp/
+scpos/playerdata/**
+scpos/playerdataini/
+!scpos/playerdata/DEFAULT.pickle
+skrib
+quotes
+**__pycache__
+TOKEN
+gifs/temp/
+players.json
+CustomFilters.xml
+bingo/
+civ/players.json
