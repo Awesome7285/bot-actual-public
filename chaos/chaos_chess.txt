@@ -1,0 +1,105 @@
+Kings don't need to be protected anymore, pawns do
+Kings don't need to be protected anymore, queens do
+Kings don't need to be protected anymore, knights do
+Kings don't need to be protected anymore, bishops do
+Kings don't need to be protected anymore, rooks do
+All Pawns are removed
+All Knights are removed
+All Rooks are removed
+All Queens are removed
+All Bishops are removed
+The game must now be played in cylinder chess mode
+The game must now be played in atomic mode
+The game must now be played in king of the hill mode
+The game must now be played in full global chess mode
+The game must now no longer be played in chaos chess mode
+All white rooks and black rooks are swapped
+All white rooks and bishops must be swapped
+All black rooks and bishops must be swapped
+Both players get a queen to their hand
+Both players get 16 pawns to their hand
+Both players can promote any pawn of their choice
+Remove all current rules
+All pawns must now move like knights
+All pieces being attacked by bishop are removed
+Remove all pieces (except for the currently protected pieces) on a black square
+Remove all pieces (except for the currently protected pieces) on a white square
+Both players swap sides
+The board is rotated 90 degrees clockwise in white players perspective
+Both players choose a diagonal and fill it with pawns of their colour pawns
+The board is rotated 90 degrees counterclockwise in white players perspective
+All queens move like rooks
+All knights are bishops are swapped
+Nothing happens
+All pieces in column C are removed
+Both players get a future opportunity to ignore a rule
+If Rielly is playing, all rooks are removed
+If white player has a piece on E4, that piece must be removed
+White kings and black kings are swapped
+Both players must stand up for this turn
+White player must do their next action with their left hand
+Black player can swap any 2 pieces with each other on the board
+Both players can choose any dead piece to get to their hand
+Both players swap any two friendly pieces
+Kings move like queens for this turn
+All pieces move like rooks for this turn
+Queens and pawns are swapped
+All queens and rooks can't move for this turn
+White queens are replaced by black queens
+All pawns move like rooks for this turn
+All pieces are scrambled!
+Both players play the next move with their eyes closed (someone has to make sure that it is a legal move)
+All bishops are swapped with knights
+For the rest of the game, giving check is illegal unless its checkmate
+All pawns go back to their original positions
+For the next three turns, capturing a piece returns the piece to its starting square, if that square is occupied, it is captured as normal
+Both players can remove any one of their opponent's bishops
+Both players can remove any one of their opponent's knights
+Black player gets to go again
+For the next five turns, both players can't move the same piece twice
+For the next two turns, when a player captures a piece, they get that piece in their hand. When they place that piece down, the opponent cannot move it
+Force all en passants if you can do one this turn
+All pawns become tethered and any lone pawns are removed
+White player must choose another person to play for them
+All currently alive pieces go to their original positions
+The board is increased to 9x9 to the bottom right in white player's perspective
+The border of the playing space is decreased by 1 square in every direction and any pieces now outside of the playing range are removed
+You must now play a game of Meat Monko, the winner gets two queens to their hand
+The game ends, it's a draw!
+If the game is currently being played in atomic chess mode, or if it gets played in future, the atomic radius is increased to 2
+All pieces move like knights for the next 3 turns
+A random piece is taken away! (Use a randomizer or an external person)
+Knights move like rooks for this turn
+Bishops move like pawns for this turn
+Rooks move like queens for this turn
+Pawns move like bishops for this turn
+Every piece on row 4 is removed
+After every turn in the game, the randomizer needs to be rolled twice
+All white pawns get replaced by black pawns
+All white pawns are swapped with black pawns
+Black player gets to decide white player's next turn
+White player gets to decide black player's next turn
+White king moves to position B4
+Black player must move all their pieces into rows 5, 6 and 7
+White player must move all their pieces into rows 2, 3 and 4
+Tom comes outta nowhere and does something
+If either player can castle this turn, they must do it
+The game will now be played in 2-move chess mode
+The game will now be played in castle anywhere with anything chess mode
+All pieces swap colour
+If either player only has a king left, it becomes a super king
+If you only have 1 rook on the board, you get a rook to your hand
+If you don't have a queen on the board, you get a queen to your hand
+From now on, black player always goes first
+If you have exactly 5 pawns on the board, you get 3 pawns to your hand
+If you have 2 bishops on the board, both of them must be moved to the closest unoccupied white square if not already on one
+If you killed one of your opponents pieces last turn, they get it to their hand
+Both players can choose either a knight or bishop to add to their hand
+If you should be in detention right now, you win the game
+Both players must remove any one of their own pieces
+All knights become bishops, all rooks become knights, and all bishops become rooks
+You have the opportunity to create a super rook (Rook on top of a rook). You can only do it if you have both rooks in play
+All Rooks must now move like bishops
+All Kings are removed if they are not the current piece required to be protected
+A pawn can be moved 1 space sideways for this turn
+Play a game of Chess, whoever wins gets 2 queens to their hand

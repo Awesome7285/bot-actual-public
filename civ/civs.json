@@ -1,0 +1,189 @@
+[
+    {
+        "name": "vanilla",
+        "mod": false,
+        "civs": [
+            ["Teddy Roosevelt", "Bull Moose", "America"],
+            ["Saladin", "Vizier", "Arabia"],
+            ["Pedro II", "Brazil"],
+            ["Qin Shi Huang", "Mandate of Heaven", "China"],
+            ["Cleopatra", "Egyptian", "Egypt"],
+            ["Victoria", "Age of Empire", "England"],
+            ["Catherine De Medici", "Black Queen", "France"],
+            ["Barbarossa", "Germany"],
+            ["Gorgo", "Greece"],
+            ["Pericles", "Greece"],
+            ["Gandhi", "India"],
+            ["Hojo Tokimune", "Japan"],
+            ["Mvemba A Nzinga", "Kongo"],
+            ["Harald Hardrada", "Konge", "Norway"],
+            ["Trajan", "Rome"],
+            ["Peter", "Russia"],
+            ["Tomyris", "Scythia"],
+            ["Philip II", "Spain"],
+            ["Gilgamesh", "Sumeria"]
+        ]
+    },
+    {
+        "name": "poland",
+        "mod": false,
+        "civs": [
+            ["Jadwiga", "Poland"]
+        ]
+    },
+    {
+        "name": "australia",
+        "mod": false,
+        "civs": [
+            ["John Curtin", "Australia"]
+        ]
+    },
+    {
+        "name": "macedonia and persia",
+        "mod": false,
+        "civs": [
+            ["Alexander", "Macedonia"],
+            ["Cyrus", "Persia"]
+        ]
+    },
+    {
+        "name": "nubia",
+        "mod": false,
+        "civs": [
+            ["Amanitore", "Nubia"]
+        ]
+    },
+    {
+        "name": "indonesia and khmer",
+        "mod": false,
+        "civs": [
+            ["Gitarja", "Indonesia"],
+            ["Jayavarman", "Khmer"]
+        ]
+    },
+    {
+        "name": "rise and fall",
+        "mod": false,
+        "civs": [
+            ["Poundmaker", "Cree"],
+            ["Tamar", "Georgia"],
+            ["Chandragupta", "India"],
+            ["Seondeok", "Korea"],
+            ["Lautaro", "Mapuche"],
+            ["Genghis Khan", "Mongolia"],
+            ["Wilhelmina", "Netherlands"],
+            ["Robert the Bruce", "Scotland"],
+            ["Shaka", "Zulu"]
+        ]
+    },
+    {
+        "name": "gathering storm",
+        "mod": false,
+        "civs": [
+            ["Wilfred Laurier", "Canada"],
+            ["Eleanor of Aquitane", "England"],
+            ["Eleanor of Aquitane", "France"],
+            ["Matthias Corvinus", "Hungary"],
+            ["Pachacuti", "Inca"],
+            ["Mansa Musa", "Mali"],
+            ["Kupe", "Maori"],
+            ["Suleiman", "Kanuni", "Ottoman"],
+            ["Dido", "Phoenicia"],
+            ["Kristina", "Sweden"]
+        ]
+    },
+    {
+        "name": "gran columbia and maya",
+        "mod": false,
+        "civs": [
+            ["Simon Bolivar", "Gran Columbia"],
+            ["Lady Six Sky", "Maya"]
+        ]
+    },
+    {
+        "name": "ethiopia",
+        "mod": false,
+        "civs": [
+            ["Menelik", "Ethiopia"]
+        ]
+    },
+    {
+        "name": "persona pack",
+        "mod": false,
+        "civs": [
+            ["Teddy Roosevelt", "Rough Rider", "America"],
+            ["Catherine De Medici", "Magnificence", "France"]
+        ]
+    },
+    {
+        "name": "byzantium and gaul",
+        "mod": false,
+        "civs": [
+            ["Basil II", "Byzantium"],
+            ["Ambiorix", "Gaul"]
+        ]
+    },
+    {
+        "name": "babylon",
+        "mod": false,
+        "civs": [
+            ["Hammurabi", "Babylon"]
+        ]
+    },
+    {
+        "name": "vietnam and kublai khan",
+        "mod": false,
+        "civs": [
+            ["Bà Triệu", "Vietnam"],
+            ["Kublai Khan", "China"],
+            ["Kublai Khan", "Mongolia"]
+        ]
+    },
+    {
+        "name": "portugal",
+        "mod": false,
+        "civs": [
+            ["João III", "Portugal"]
+        ]
+    },
+    {
+        "name": "julius caesar",
+        "mod": false,
+        "civs": [
+            ["Julius Caesar", "Rome"]
+        ]
+    },
+    {
+        "name": "leader pass",
+        "mod": false,
+        "civs": [
+            ["Abraham Lincoln", "America"],
+            ["Nzinga Mbande", "Kongo"],
+            ["Saladin", "Sultan", "Arabia"],
+            ["Tokugawa", "Japan"],
+            ["Nader Shah", "Persia"],
+            ["Suleiman", "Muhteşem", "Ottoman"],
+            ["Yongle", "China"],
+            ["Wu Zetian", "China"],
+            ["Qin Shi Huang", "Unifier", "China"],
+            ["Ramses II", "Egypt"],
+            ["Sundiata Keita", "Mali"],
+            ["Cleopatra", "Ptolemaic", "Egypt"],
+            ["Theodora", "Byzantium"],
+            ["Sejong", "Korea"],
+            ["Ludwig II", "Germany"],
+            ["Elizabeth I", "England"],
+            ["Harald Hardrada", "Varangian", "Norway"],
+            ["Victoria", "Age of Steam", "England"]
+        ]
+    },
+    {
+        "name": "monkey boys",
+        "mod": true,
+        "civs": [
+            ["Tom Purcell", "Altona"],
+            ["Deccy Rob", "Driller", "Altona"],
+            ["Deccy Rob", "Preacher", "Altona"]
+        ]
+    }
+]
